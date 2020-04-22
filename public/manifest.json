@@ -1,6 +1,6 @@
 {
-  "short_name": "Shopify App",
-  "name": "Create Shopping App Sample",
+  "short_name": "React App",
+  "name": "Create React App Sample",
   "icons": [
     {
       "src": "favicon.ico",
